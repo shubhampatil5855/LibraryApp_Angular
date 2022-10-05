@@ -1,0 +1,35 @@
+.Main-container{
+    margin-left: 500px;
+    margin-top: 20px;
+}
+
+.button{
+    width: 150px;
+    margin-left: 20px;
+    height: 40px;
+    background-color: brown;
+    color: white;
+}
+
+.First-container{
+    margin-top: 20px;
+    margin-left: 520px;
+}
+
+.smbutton{
+    width: 100px;
+    margin-left: 20px;
+    height: 30px;
+    color: blue;
+}
+
+table, th, td {
+    border: 1px solid black;}
+
+.editbtn{
+    background-color: lightyellow;
+}
+
+.delbtn{
+    background-color: red;
+}
